@@ -1,0 +1,7 @@
+C:\Users\WIN-PRO\source\repos\EF-Repositorio-MN\EF-Repositorio-MN\bin\Debug\EF-Repositorio-MN.exe.config
+C:\Users\WIN-PRO\source\repos\EF-Repositorio-MN\EF-Repositorio-MN\bin\Debug\EF-Repositorio-MN.exe
+C:\Users\WIN-PRO\source\repos\EF-Repositorio-MN\EF-Repositorio-MN\bin\Debug\EF-Repositorio-MN.pdb
+C:\Users\WIN-PRO\source\repos\EF-Repositorio-MN\EF-Repositorio-MN\obj\Debug\CafeteriaReservas.csproj.AssemblyReference.cache
+C:\Users\WIN-PRO\source\repos\EF-Repositorio-MN\EF-Repositorio-MN\obj\Debug\CafeteriaReservas.csproj.CoreCompileInputs.cache
+C:\Users\WIN-PRO\source\repos\EF-Repositorio-MN\EF-Repositorio-MN\obj\Debug\EF-Repositorio-MN.exe
+C:\Users\WIN-PRO\source\repos\EF-Repositorio-MN\EF-Repositorio-MN\obj\Debug\EF-Repositorio-MN.pdb
